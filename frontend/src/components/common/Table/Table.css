@@ -1,0 +1,9 @@
+td,
+th {
+  padding: 5px;
+}
+
+tr:hover{
+  background-color: whitesmoke;
+  cursor: pointer;
+}
